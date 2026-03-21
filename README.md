@@ -11,11 +11,20 @@
 - 🧠 Constant learner: **AI, APIs, and Real-world Projects**
 - 🛠 Crafting **projects that solve real problems**
 - 🤝 Open to **collaboration and mentorship opportunities**
+---
+*Technologies used in multiple projects:*
+- **Programming Languages:** Java, Python
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, TailWindCSS
+- **Backend/Framework:** Flask
+- **Databases:** MySQL, PostgreSQL
+---
 
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,mysql,postgres,html,css" height="40" />
 </p>
+
+---
 
 
 ### **📈 Contribution Graph**
@@ -24,11 +33,24 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jalp-patel-495&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jalp-patel-495&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=jalp-patel-495&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jalp-patel-495&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+### **🌐 Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalp-patel-495&layout=compact&theme=nightowl&hide_border=true&border_radius=20" height="150"/>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=jalp-patel-495&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+### **📡 Live Visitor Count**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jalp-patel-495&style=for-the-badge&color=1E90FF&label=PROFILE+VISITS"/>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -45,14 +45,13 @@ Education: B.E Computer Engineering
 
 Location: Ahmedabad, Gujarat, India
 
-Open To:
-  Internship
-  Software Development
-  Full Stack Development
-  Backend Development
-  Python Development
-  UI/UX Development
-  Web Development
+Open To: Internship
+         Software Development
+         Full Stack Development
+         Backend Development
+         Python Development
+         UI/UX Development
+         Web Development
   
 ```
 
